@@ -1,0 +1,20 @@
+<!--<div class="col-lg-12 root">-->
+
+  <div class="col-lg-12 srch-div">
+    <div class="col-lg-8 input-group input-group-lg">
+      <input type="text" name="term" id="term" class="form-control" [(ngModel)]="term" placeholder="Search for...">
+      <span class="input-group-btn ">
+        <button class="btn btn-default" type="button" [disabled]="term == ''" (click)="search()"><span class="glyphicon-search glyphicon"></span></button>
+      </span>
+    </div>
+
+  </div>
+  <div>
+    <div >
+      <repo-gallery class="col-lg-8"></repo-gallery>
+    </div>
+    <div class="marked">
+      <marked-repos class="col-lg-4"></marked-repos>
+    </div>
+  </div>
+

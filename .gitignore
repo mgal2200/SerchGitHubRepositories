@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/packages
+/SearchGitHubMVC/bin
+/SearchGitHubMVC/fonts
+/SearchGitHubMVC/obj

@@ -1,0 +1,17 @@
+<div class="panel panel-default repo-panel">
+  <div class="panel-heading">
+    <h2>
+      {{repo.Name}}
+    </h2>
+  </div>
+  <div class="panel-body">
+    <h4>
+      <a href="{{repo.AvatarUrl}}">{{repo.AvatarUrl}}</a>
+    </h4>
+  </div>
+  <div *ngIf="!repo.Marked" class="panel-footer">
+    <label (click)="mark(repo)" class="btn btn-default">
+       <span>Mark</span>
+    </label>
+  </div>
+</div>

@@ -1,0 +1,5 @@
+<div class="row gallery" *ngIf="repos">
+  <div class="col-lg-4 col-md-6 mb-4 repo-item" *ngFor="let repo of repos">
+   <repo [repo]="repo"></repo>
+  </div>
+</div>

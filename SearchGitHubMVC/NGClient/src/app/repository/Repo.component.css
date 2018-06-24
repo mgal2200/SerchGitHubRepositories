@@ -1,0 +1,21 @@
+ 
+.repo-panel {
+  height: 100%;
+}
+
+.panel-heading {
+  word-break: break-all;
+}
+
+.panel-body {
+  word-break: break-all;
+}
+
+
+.btn span.glyphicon {
+  opacity: 0      ;
+}
+
+.btn.active span.glyphicon {
+  opacity: 1;
+}

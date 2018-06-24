@@ -1,0 +1,9 @@
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\bin\Debug\GitHubExcersize.dll
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\bin\Debug\GitHubExcersize.pdb
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\bin\Debug\Octokit.dll
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\bin\Debug\Octokit.xml
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\obj\Debug\GitHubClient.csprojAssemblyReference.cache
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\obj\Debug\GitHubClient.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\obj\Debug\GitHubClient.csproj.CopyComplete
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\obj\Debug\GitHubExcersize.dll
+C:\Users\mypc\Downloads\GitHubRepositories-master\GitHubExcersize\obj\Debug\GitHubExcersize.pdb
